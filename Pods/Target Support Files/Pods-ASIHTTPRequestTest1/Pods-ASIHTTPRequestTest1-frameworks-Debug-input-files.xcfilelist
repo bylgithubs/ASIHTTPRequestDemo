@@ -1,0 +1,3 @@
+${PODS_ROOT}/Target Support Files/Pods-ASIHTTPRequestTest1/Pods-ASIHTTPRequestTest1-frameworks.sh
+${BUILT_PRODUCTS_DIR}/ASIHTTPRequest/ASIHTTPRequest.framework
+${BUILT_PRODUCTS_DIR}/Reachability/Reachability.framework
